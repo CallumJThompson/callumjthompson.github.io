@@ -5,4 +5,4 @@ Made some optional tweaks. Accessible through GitHub Pages unless events change.
 
 ![image](https://user-images.githubusercontent.com/36814754/119276440-291afd80-bc12-11eb-94e0-b847afb4241d.png)
 
-<img src="https://user-images.githubusercontent.com/36814754/120389582-8276e100-c324-11eb-9cf4-f38627fdeb39.jpg" width="100">
+<img src="https://user-images.githubusercontent.com/36814754/120389582-8276e100-c324-11eb-9cf4-f38627fdeb39.jpg" width="540">
